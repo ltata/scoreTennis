@@ -51,7 +51,7 @@ public class Player {
 	}
 	
 	public void winSet() {
-		this.setNumberSet(this.getNumberSet() + 1);
+		this.numberSet++;
 		this.resetScore();
 		this.setAdvantage(false);
 	}
