@@ -3,7 +3,6 @@ package scoreTennis;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		Player scorePlayerOne = new Player();
 		Player scorePlayerTwo = new Player();
